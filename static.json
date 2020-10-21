@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "ksenya-7",
+      "Access-Control-Allow-Origin": "*"
+     }
+   }
+ }
+ 
